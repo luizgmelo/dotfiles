@@ -1,8 +1,5 @@
 [init]
 	defaultBranch = main
 [user]
-	name = Luiz Guilherme
 	email = 88911920+luizgmelo@users.noreply.github.com
-[core]
-	editor = nvim
-	pager = cat
+	name = Luiz Guilherme
