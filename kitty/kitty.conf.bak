@@ -2387,5 +2387,6 @@ include ./OneDark.conf
 
 
 # BEGIN_KITTY_THEME
-# Argonaut
+# Desert
+include current-theme.conf
 # END_KITTY_THEME

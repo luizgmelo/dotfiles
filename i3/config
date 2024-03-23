@@ -187,11 +187,11 @@ gaps inner 10
 gaps outer 10
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
-client.focused_inactive #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
-client.unfocused        #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
-client.urgent           #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
-client.placeholder      #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
+client.focused          #09f4ff #09f4ff #09f4ff #09f4ff #09f4ff 
+client.focused_inactive #09f4ff #09f4ff #09f4ff #09f4ff #09f4ff
+client.unfocused        #09f4ff #09f4ff #09f4ff #09f4ff #09f4ff
+client.urgent           #09f4ff #09f4ff #09f4ff #09f4ff #09f4ff
+client.placeholder      #09f4ff #09f4ff #09f4ff #09f4ff #09f4ff
 
 client.background       #ffffff
 

@@ -3,3 +3,6 @@
 [user]
 	email = 88911920+luizgmelo@users.noreply.github.com
 	name = Luiz Guilherme
+[safe]
+	directory = /opt/flutter.
+	directory = /opt/flutter
