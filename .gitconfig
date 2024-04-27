@@ -3,3 +3,5 @@
 [user]
 	email = 88911920+luizgmelo@users.noreply.github.com
 	name = Luiz Guilherme
+[core]
+	editor = lvim

@@ -46,7 +46,7 @@ floating_modifier $mod
 
 # move tiling windows via drag & drop by left-clicking into the title bar,
 # or left-clicking anywhere into the window while holding the floating modifier.
-tiling_drag modifier titlebar
+#tiling_drag modifier titlebar
 
 # start a terminal
 bindsym $mod+Return exec kitty
@@ -183,8 +183,8 @@ mode "resize" {
 
 # Borders ##
 for_window [class="^.*"] border pixel 3
-gaps inner 10
-gaps outer 10
+#gaps inner 10
+#gaps outer 10
 
 # class                 border  backgr. text    indicator child_border
 client.focused          #1f80ad #1f80ad #1f80ad #1f80ad #1f80ad
